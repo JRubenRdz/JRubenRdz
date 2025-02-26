@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde 2005<br>📚 Actualmente estoy estudiando Desarrollo de Aplicaciones Web<br>🎯 Metas: Terminar el ciclo e iniciarme en el mercado laboral<br>🎲 Dato curioso:  Odiaba programar hasta que empecé a aprender</p>
+<p align="left">✨ Generando bugs desde 2005<br>📚 Actualmente estoy estudiando Desarrollo de Aplicaciones Web<br>🎯 Metas: Terminar el ciclo e iniciarme en el mercado laboral<br>🎲 Dato curioso:  Odiaba programar hasta que empecé a aprender</p>
 
 ###
 
