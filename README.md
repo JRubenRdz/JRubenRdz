@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Lenguajes y frameworks que conozco</h2>
+<h2 align="left">Lenguajes y frameworks que uso</h2>
 
 ###
 
