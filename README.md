@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Generando bugs desde 2005<br>📚 Actualmente estoy aprendiendo Delphi y estudiando DAW<br>🎯 Metas: Terminar el ciclo e iniciarme en el mercado laboral<br>🎲 Dato curioso:  Odiaba programar hasta que empecé a aprender</p>
+<p align="left">✨ Generando bugs desde 2005<br>📚 Actualmente estoy aprendiendo Delphi y estudiando DAW<br>🎯 Metas: Terminar el ciclo e iniciarme en el mercado laboral<br>🎲 Dato curioso:  Odiaba la programación web hasta que empecé a aprender</p>
 
 ###
 
